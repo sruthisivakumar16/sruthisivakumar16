@@ -4,14 +4,17 @@
 </p>
 <p align = "center"> <img src="https://komarev.com/ghpvc/?username=sruthisivakumar16&label=Profile%20views&color=0e75b6&style=flat" alt="sruthisivakumar16" /> </p>
 <h1 align="center">Hey there 👋 I'm Sruthi Sivakumar</h1>
-<p align="center">I'm a Software Engineering student at Vellore Institute of Technology, Chennai. I enjoy learning new things and I'm constantly looking for new ways to challenge myself and grow as a person. I'm interested in App Development, Machine Learning and Data Analytics. In addition to these, I love reading books and discovering new songs. </p><br></br>
+<p align="center">I'm a Software Engineering student at Vellore Institute of Technology, Chennai. I enjoy learning new things and I'm constantly looking for new ways to challenge myself and grow as a person. I'm interested in App Development, Machine Learning and Data Analytics. <br> 
+In addition to these, I love reading books and discovering new songs! </p><br></br>
 
 
 - 🔭 I’m currently working on **a movie recommendation system**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Swift and French**
 
-- ⚡ Fun fact **I have a red ukulele and sometimes when I'm not panicking about my future, I paint** <br></br>
+- ⚡ Fun fact **I have a red ukulele and sometimes when I'm not panicking about my future, I paint** 
+
+- :unicorn: Oh and also, I'm an INFJ-A if you're wondering! <br></br>
 
 
 <h3 align="center">Languages and Tools:</h3>
