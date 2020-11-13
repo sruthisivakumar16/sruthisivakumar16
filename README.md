@@ -14,7 +14,7 @@ In addition to these, I love reading books and discovering new songs! </p><br></
 
 - ⚡ Fun fact **I have a red ukulele and sometimes when I'm not panicking about my future, I paint** 
 
-- :unicorn: Oh and also, I'm an INFJ-A if you're wondering! <br></br>
+- :unicorn: Oh and also, I'm an INFJ if you're wondering! <br></br>
 
 
 <h3 align="center">Languages and Tools:</h3>
