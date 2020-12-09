@@ -1,9 +1,9 @@
 <p align="center"> 
-<a href="https://linkedin.com/in/sruthisivakumar16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sruthisivakumar16" height="30" width="40" /></a>
-<a href="https://instagram.com/shhruuuu_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shhruuuu_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sruthisivakumar16" target="blank"><img align="center" src="https://www.svgrepo.com/show/299433/linkedin.svg" alt="sruthisivakumar16" height="40" width="40" /></a>
+<a href="https://instagram.com/shhruuuu_" target="blank"><img align="center" src="https://www.svgrepo.com/show/205290/instagram.svg" alt="shhruuuu_" height="40" width="40" /></a>
 </p>
 <p align = "center"> <img src="https://komarev.com/ghpvc/?username=sruthisivakumar16&label=Profile%20views&color=0e75b6&style=flat" alt="sruthisivakumar16" /> </p>
-<h1 align="center">Hey there 👋 I'm Sruthi Sivakumar</h1>
+<p> <h1  align = "center">Hey there 👋 I'm Sruthi Sivakumar  <img src = "https://thumbs.gfycat.com/FantasticInconsequentialJabiru.webp" height = "50"/></h1></p>
 <p align="center">I'm a Software Engineering student at Vellore Institute of Technology, Chennai. I enjoy learning new things and I'm constantly looking for new ways to challenge myself and grow as a person. I'm interested in App Development, Machine Learning and Data Analytics. <br> 
 In addition to these, I love reading books and discovering new songs! </p><br></br>
 
