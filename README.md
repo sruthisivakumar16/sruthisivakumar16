@@ -8,7 +8,7 @@
 In addition to these, I love reading books and discovering new songs! </p><br></br>
 
 
-- 🔭 I’m currently working on **a movie recommendation system**
+- 🔭 I’m currently working on **a machine learning project**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Swift and French**
 
