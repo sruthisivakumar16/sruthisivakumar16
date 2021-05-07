@@ -6,9 +6,7 @@
 In addition to these, I love reading books and discovering new songs! </p><br></br>
 
 
-- 🔭 I’m currently working on **an Angular Project**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms, Angular and French**
+- 🌱 I’m currently learning **Angular and French**
 
 - ⚡ Fun fact **I have a red ukulele and sometimes when I'm not panicking about my future, I paint**
 - You can checkout my recent <a href="https://sruthi-sivakumar.medium.com/estimating-the-compressive-strength-of-concrete-using-machine-learning-1637c9ca2c73" >medium article</a> here. Leave some claps if you liked it too!
