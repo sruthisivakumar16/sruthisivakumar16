@@ -2,8 +2,7 @@
 <a href="https://linkedin.com/in/sruthisivakumar16" target="blank"><img align="center" src="https://www.svgrepo.com/show/299433/linkedin.svg" alt="sruthisivakumar16" height="40" width="40" /></a>
 <p align = "center"> <img src="https://komarev.com/ghpvc/?username=sruthisivakumar16&label=Profile%20views&color=0e75b6&style=flat" alt="sruthisivakumar16" /> </p>
 <p> <h1  align = "center">Hey there 👋 I'm Sruthi Sivakumar  <img src = "https://thumbs.gfycat.com/FantasticInconsequentialJabiru.webp" height = "50"/></h1></p>
-<p align="center">I'm a Software Engineering student at Vellore Institute of Technology, Chennai. I enjoy learning new things and I'm constantly looking for new ways to challenge myself and grow as a person. <br> 
-In addition to these, I love reading books and discovering new songs! </p><br></br>
+<p align="center">I'm a Software Engineering student at Vellore Institute of Technology, Chennai. I enjoy learning new things and I'm constantly looking for new ways to challenge myself and grow as a person. In addition to these, I love reading books and discovering new songs! </p><br>
 
 
 - 🌱 I’m currently learning **Angular and French**
