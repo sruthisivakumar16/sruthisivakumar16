@@ -3,7 +3,7 @@
 <p align = "center"> <img src="https://komarev.com/ghpvc/?username=sruthisivakumar16&label=Profile%20views&color=0e75b6&style=flat" alt="sruthisivakumar16" /> </p>
 <p> <h1  align = "center">Hey there 👋 I'm Sruthi Sivakumar </h1></p>
 <p align="center">I'm a Big Data Science Student at QMUL. I like to learn interesting things & implement them in my own way. When I'm not doing that, I love reading books and discovering new songs! <br>
-🌱 I’m currently learning **Python** so you would see a lot of contributions related to that! </p>
+🌱 I’m currently learning Python so you would see a lot of contributions related to that! </p>
 
 <br></br><p align = "center">&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sruthisivakumar16&layout=compact&theme=dark)](https://github.com/sruthisivakumar16/github-readme-stats)</p>
 <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sruthisivakumar16&show_icons=true&theme=dark" alt="sruthisivakumar16" />
