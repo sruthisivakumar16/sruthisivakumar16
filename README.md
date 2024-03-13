@@ -7,5 +7,4 @@ I like to learn interesting things & implement them in my own way. When I'm not 
 🌱 I’m currently learning Python so you would see a lot of contributions related to that! </p>
 
 <br><p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sruthisivakumar16&layout=compact&theme=dark)](https://github.com/sruthisivakumar16/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=sruthisivakumar16&show_icons=true&theme=dark" alt="sruthisivakumar16" /></p>
 
