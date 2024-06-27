@@ -5,6 +5,7 @@
 <p align="center">I'm studying Big Data Science in London, ex-Software Engineer.<br> 
 I like to learn interesting things & implement them in my own way. When I'm not doing that, I love reading books and discovering new songs! <br>
 🌱 I’m currently learning Python so you would see a lot of contributions related to that! </p>
+📝 Working on my postgraduate thesis on Image Generation by integrating CLIP with generative models for multimodal data in Tamil
 
 <br><p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sruthisivakumar16&layout=compact&theme=dark)](https://github.com/sruthisivakumar16/github-readme-stats)
 
